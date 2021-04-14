@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 20px 0 0 10%;
+  background-color: hsla(175, 100%, 80%, 1);
+  color: hsla(175, 8%, 25%, 1);
+}
+
+h1 {
+  font-size: 24px;
+  padding: 0, 0, 8px, 0;
+  border-bottom: 2px solid hsla(175, 60%, 70%, 1);
+}
+
+img {
+  border-radius: 50%;
+}
